@@ -2,7 +2,7 @@
 
 Required a gmail account through which we will send the mail
 <li>create a gmail account</li>
-<h3><b><i>Needs a perform a setting before executing the code</i></b></h3>
+<h3><b><i>Needs to perform a setting before executing the code</i></b></h3>
 <li>login into google account</li>
 <li>open google account</li>
 <li>select "security"</li>
