@@ -12,4 +12,7 @@ Required a gmail account through which we will send the mail
 <li>subject = ""</li>
 <li>To = ""</li>
 <li>From = ""</li>
+<h5><b><i> Set your own gmail and passwords</i></b></h5>
+<h5><b><i> For logo, then set the path, where the logo have stored</i></b></h5>
+<h5><b><i> Execute the code !</i></b></h5>
 
